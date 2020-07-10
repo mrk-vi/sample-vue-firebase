@@ -2,7 +2,7 @@
   "name": "sample-vue-firebase",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Mirko Zizzari <mirko.zizzari@smc.it>",
+  "author": "Mirko Zizzari <mirko.zizzari@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
